@@ -1,5 +1,5 @@
 {
-    "name": "XrayHeroku",
+    "name": "XrayHero",
     "description": "xray websocket proxy on heroku",
     "keywords": ["xray vmess vless trojan shadowsocks socks tor"],
     "env": {
@@ -33,6 +33,6 @@
         }
     },
     "website": "https://github.com/AGWRI/XrayHeroku",
-    "repository": "https://github.com/AGWRI/XrayHeroku",
+    "repository": "https://github.com/xhino2/heroxray",
     "stack": "container"
 }
